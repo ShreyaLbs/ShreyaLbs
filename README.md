@@ -1,14 +1,14 @@
-[![Shreya's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ShreyaLbs&show_icons=true&theme=tokyonight)](https://github.com/ShreyaLbs)
-
-
-<img src="https://github.com/user-attachments/assets/c1830e32-cea4-41b0-ab03-7eb9f1303136" width =200px height =300px>
-
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,4&height=160&section=header&text=Shreya%20Ajith&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=she%2Fher%20%C2%B7%20Developer%20%C2%B7%20Designer%20%C2%B7%20Community%20Builder&descAlignY=78&descSize=14&descColor=cccccc"/>
 
 </div>
+
+[![Shreya's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ShreyaLbs&show_icons=true&theme=tokyonight)](https://github.com/ShreyaLbs)
+
+
+<img src="https://github.com/user-attachments/assets/c1830e32-cea4-41b0-ab03-7eb9f1303136" width =200px height =300px>
+
 
 <br/>
 
